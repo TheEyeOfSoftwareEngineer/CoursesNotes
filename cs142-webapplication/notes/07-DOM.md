@@ -92,7 +92,7 @@ outside corner of its margin
 not necessarily the same as element.parentNode
 
 ### DOM Coordinates 
-[Imgur](https://i.imgur.com/Okx64Qc.png)
+![Imgur](https://i.imgur.com/Okx64Qc.png)
 
 ### Positioning elements
 - Normally elements are positioned automatically by the
